@@ -1,5 +1,5 @@
 import { PublicComponent } from './public.component';
-import { PublicModule } from './public.module';
+
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
